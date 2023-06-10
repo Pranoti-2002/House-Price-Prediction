@@ -6,6 +6,8 @@ __locations = None
 __data_columns = None
 __model = None
 
+#function for predicting the price
+
 def get_estimated_price(location,sqft,bhk,bath):
     try:
         loc_index = __data_columns.index(location.lower())
