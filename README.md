@@ -12,5 +12,6 @@ The Tecchnology used for bulding project -
 3. Matplotlib for data visualization
 4. Sklearn for model building
 5. Visual studio code 
-6. Python flask for http request 
-7. HTML/CSS/Javascript for User Interface 
+6. Jupyter Notebook
+7. Python flask for http request 
+8. HTML/CSS/Javascript for User Interface 
